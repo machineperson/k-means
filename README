@@ -1,0 +1,5 @@
+Implementation of k-means clustering using Lloyd's algorithm.
+
+kmeans.py contains the implementation of the actual algorithm, 
+plot.py generates some pseudorandom data points in 2D, clusters them
+using the code in kmeans.py and visualises the data points and centroids. 
